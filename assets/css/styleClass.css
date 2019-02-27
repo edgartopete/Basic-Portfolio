@@ -17,3 +17,9 @@
     color:#5A4522;
     margin-left: 10px;
 }
+.imgText{
+    background: #00A499;   
+    top: 120px;
+    width: 50%;
+    position: relative;
+}
